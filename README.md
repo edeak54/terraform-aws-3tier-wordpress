@@ -67,7 +67,7 @@ I performed a "Chaos Test" by terminating a running instance. The Auto Scaling G
 ### 2. Infrastructure Status
 * **Target Group Health:** All instances marked "Healthy" behind the ALB.
 * **VPC Resource Map:** Verified visual routing logic from IGW to Private Subnets.
-* 
+
 <img width="776" height="188" alt="healthy" src="https://github.com/user-attachments/assets/e3e59c4a-6ff3-41a4-b516-55f4b1077c7a" />
 > <img width="811" height="332" alt="vpc_map" src="https://github.com/user-attachments/assets/66c2f357-6d6d-46bc-b3f3-a0f11fba0ae5" />
 ---
