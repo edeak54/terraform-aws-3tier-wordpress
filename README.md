@@ -44,8 +44,8 @@ The architecture is designed to handle failure and secure sensitive data:
 ### Steps
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/edeak54/terraform-aws-3tier-wordpress.git
+    cd terraform-aws-3tier-wordpress
     ```
 2.  **Initialize Terraform:**
     ```bash
