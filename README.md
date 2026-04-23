@@ -12,7 +12,7 @@ The architecture is designed to handle failure and secure sensitive data:
 * **Application Tier:** EC2 instances in private subnets, utilizing a NAT Gateway for outbound updates.
 * **Data Tier:** Amazon RDS (MySQL) and Amazon EFS (Elastic File System) for persistent, shared storage across instances.
 
-(diagram soon)
+<img width="882" height="423" alt="cloud" src="https://github.com/user-attachments/assets/dd2a6fc9-27b3-406f-87ce-92a8dc9fe8b8" />
 ---
 
 ## 🛠️ Infrastructure Components
